@@ -1,0 +1,14 @@
+/Users/developer/Projects/simple_snake/SimpleSnake/bin/Debug/net8.0/SimpleSnake
+/Users/developer/Projects/simple_snake/SimpleSnake/bin/Debug/net8.0/SimpleSnake.deps.json
+/Users/developer/Projects/simple_snake/SimpleSnake/bin/Debug/net8.0/SimpleSnake.runtimeconfig.json
+/Users/developer/Projects/simple_snake/SimpleSnake/bin/Debug/net8.0/SimpleSnake.dll
+/Users/developer/Projects/simple_snake/SimpleSnake/bin/Debug/net8.0/SimpleSnake.pdb
+/Users/developer/Projects/simple_snake/SimpleSnake/obj/Debug/net8.0/SimpleSnake.GeneratedMSBuildEditorConfig.editorconfig
+/Users/developer/Projects/simple_snake/SimpleSnake/obj/Debug/net8.0/SimpleSnake.AssemblyInfoInputs.cache
+/Users/developer/Projects/simple_snake/SimpleSnake/obj/Debug/net8.0/SimpleSnake.AssemblyInfo.cs
+/Users/developer/Projects/simple_snake/SimpleSnake/obj/Debug/net8.0/SimpleSnake.csproj.CoreCompileInputs.cache
+/Users/developer/Projects/simple_snake/SimpleSnake/obj/Debug/net8.0/SimpleSnake.dll
+/Users/developer/Projects/simple_snake/SimpleSnake/obj/Debug/net8.0/refint/SimpleSnake.dll
+/Users/developer/Projects/simple_snake/SimpleSnake/obj/Debug/net8.0/SimpleSnake.pdb
+/Users/developer/Projects/simple_snake/SimpleSnake/obj/Debug/net8.0/SimpleSnake.genruntimeconfig.cache
+/Users/developer/Projects/simple_snake/SimpleSnake/obj/Debug/net8.0/ref/SimpleSnake.dll
